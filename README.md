@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="600" src="uploads/flux.gif"/>
+  <img width="500" src="uploads/flux.gif"/>
 </p>
 
 * [Content (en-US)](#secao-en_us)
